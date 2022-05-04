@@ -10,6 +10,51 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  uuid: ^3.0.4
+  intl: ^0.17.0
+  http: ^0.13.4
+  equatable: ^2.0.3
+  quiver: ^3.0.0
+  http_interceptor: ^1.0.2
+  dartz: ^0.10.1
+  freezed_annotation: ^1.1.0
+  json_annotation: ^4.4.0
+  pdf: ^3.1.0
+  path: ^1.8.0
+  path_provider: ^2.0.2
+  
+  #riverpod
+  riverpod: ^2.0.0-dev.5
+  flutter_riverpod: ^2.0.0-dev.5
+  hooks_riverpod: ^2.0.0-dev.5
+
+  #mobile & web
+  easy_localization: ^3.0.0
+
+  #mvvm
+  stacked: ^2.2.8
+  
+  #test
+  test_api: ^0.4.3
+  mockito: ^5.0.17
+  firebase_auth_mocks: ^0.8.2
+  firebase_storage_mocks: ^0.5.0
+
+  #video
+  video_thumbnail: ^0.4.6
+  video_compress:
+    git:
+      url: https://github.com/jonataslaw/VideoCompress.git
+      ref: master
+  
+  #images
+  cached_network_image: ^3.1.0
+  flutter_native_image: ^0.0.6+1
+  progress_dialog:
+    git:
+      url: https://github.com/mostafaAbdelazim/progress_dialog.git
+
 
 dev_dependencies:
   flutter_test:
