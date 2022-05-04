@@ -18,7 +18,7 @@ dependencies:
   quiver: ^3.0.0
   http_interceptor: ^1.0.2
   dartz: ^0.10.1
-  freezed_annotation: ^1.1.0
+  freezed_annotation: ^2.0.1
   json_annotation: ^4.4.0
   pdf: ^3.1.0
   path: ^1.8.0
@@ -42,7 +42,7 @@ dependencies:
   firebase_storage_mocks: ^0.5.0
 
   #video
-  video_thumbnail: ^0.4.6
+  video_thumbnail: ^0.5.0
   video_compress:
     git:
       url: https://github.com/jonataslaw/VideoCompress.git
@@ -55,7 +55,8 @@ dependencies:
     git:
       url: https://github.com/mostafaAbdelazim/progress_dialog.git
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^1.0.4
