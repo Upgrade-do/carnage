@@ -33,7 +33,7 @@ dependencies:
   easy_localization: ^3.0.0
 
   #mvvm
-  stacked: ^2.2.8
+  stacked: ^2.3.6
   
   #test
   test_api: ^0.4.3
@@ -51,6 +51,9 @@ dependencies:
   #images
   cached_network_image: ^3.2.1
   flutter_native_image: ^0.0.6+1
+  image_picker: ^0.8.5+3
+  photo_view: ^0.13.0
+
   progress_dialog:
     git:
       url: https://github.com/mostafaAbdelazim/progress_dialog.git
