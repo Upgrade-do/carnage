@@ -11,11 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   
-  uuid: ^3.0.4
+  uuid: ^3.0.6
   intl: ^0.17.0
   http: ^0.13.4
   equatable: ^2.0.3
-  quiver: ^3.0.0
+  quiver: ^3.1.0
   http_interceptor: ^1.0.2
   dartz: ^0.10.1
   freezed_annotation: ^2.0.3
@@ -49,7 +49,7 @@ dependencies:
       ref: master
   
   #images
-  cached_network_image: ^3.1.0
+  cached_network_image: ^3.2.1
   flutter_native_image: ^0.0.6+1
   progress_dialog:
     git:
